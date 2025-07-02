@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I’m Deveins
 
-<!--
-**deveins/deveins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _Born to build. Code in the veins._
 
-Here are some ideas to get you started:
+I’m a developer who doesn’t just write code — I **live in it**.  
+I believe that creativity, clarity, and intention belong in every function,  
+every loop, and every project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧬 What I Do
+- 💻 Build clean, thoughtful front-end experiences  
+- 🎯 Focus on **JavaScript**, **HTML/CSS**, and deep problem solving  
+- 🔍 Obsess over logic, structure, and simplicity  
+- 🪄 Love creating tools that feel like *magic, but with reason*
+
+### 🌐 Connect
+- Twitter: [@deveinsHq](https://twitter.com/deveinsHq)
+- Email: deveins.hq@gmail.com
+- GitHub: [github.com/deveins](https://github.com/deveins)
+
+---
+
+> _“Code runs deep — and I follow it.”_
